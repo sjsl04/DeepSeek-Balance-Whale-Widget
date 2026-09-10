@@ -1,8 +1,5 @@
 # DSH 小鲸鱼余额挂件（DeepSeek Balance Whale Widget）
 
-![DSH 小鲸鱼余额挂件](assets/DSH2.png)
-
-DeepSeek Harness（DSH）Web 界面右下角的常驻余额挂件：小鲸鱼气泡图 + DeepSeek API 余额 + 今日已用 + 每轮对话消耗统计，每次打开界面自动启用。本项目是标准 DSH 插件包，可通过 `dsh plugin` 安装/卸载。
 
 ## 特性
 
